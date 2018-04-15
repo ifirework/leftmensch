@@ -12,7 +12,7 @@ public class WaterMarkConstant {
     //默认水印字体
     public static final String DEFAULT_FONT = "微软雅黑";
     public static final int FONT_STYLE = Font.BOLD;
-    public static final int FONT_SIZE = 80;
+    public static final int FONT_SIZE = 100;
     public static final Color FONT_COLOR = Color.RED;
 
     public static final int X = 10;
